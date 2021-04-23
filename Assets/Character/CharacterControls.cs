@@ -121,7 +121,18 @@ public class @CharacterControls : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""c9937b97-18a6-4188-a8a3-6e7000475d9e"",
-                    ""path"": ""<Keyboard>/f"",
+                    ""path"": ""<Keyboard>/p"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""PauseGame"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""f2707806-aec0-4b5b-b455-dcd56a94ac75"",
+                    ""path"": ""<Keyboard>/escape"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
